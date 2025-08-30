@@ -17,6 +17,8 @@ pnpm-debug.log*
 
 # Build output
 dist/
+dist-electron/
+release/
 build/
 out/
 .next/
