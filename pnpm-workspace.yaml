@@ -1,0 +1,10 @@
+packages:
+  - apps/*
+  - sandbox/*
+  - shared
+
+onlyBuiltDependencies:
+  - '@swc/core'
+  - '@tailwindcss/oxide'
+  - electron
+  - esbuild

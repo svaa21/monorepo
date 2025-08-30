@@ -1,0 +1,55 @@
+pnpm-lock.yaml
+
+# Node & dependencies
+node_modules/
+.pnpm/
+.pnpm-debug.log
+shrinkwrap.yaml
+
+# PNPM store (optional: if you're using global store)
+.store/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+out/
+.next/
+.eslintcache
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs & editors
+# .vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Test coverage
+coverage/
+*.lcov
+
+# Env files
+.env
+.env.*.local
+!.env.example
+
+# Turbo / Nx / others
+turbo/
+nx-cache/
+
+# Prettier / Eslint / TypeScript
+*.tsbuildinfo
+.cache/
+
+# Optional - lockfiles (usually keep them if needed)
+#pnpm-lock.yaml
