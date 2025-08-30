@@ -296,3 +296,16 @@ Suspense para datos
 Migración y compatibilidad
 Comparación con Next.js 14 App Router
 -->
+
+# GIT
+
+- feat -> nueva funcionalidad
+- fix -> corrección de errores
+- refactor -> refactorización
+- style -> estilo
+- docs -> documentación
+- build -> construcción
+- test -> pruebas
+- perf -> optimización
+- chore -> cambios no relacionados
+- revert -> revertir cambios
